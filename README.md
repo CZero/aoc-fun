@@ -13,6 +13,7 @@ Poke me for access to the board and the group chat!
 | Who   | Url                                          | Language |
 |:------|:---------------------------------------------|:---------|
 | Steph | https://github.com/CZero/Advent-of-Code-2024 | Go       |
+| Derk  | https://github.com/derkbell/aoc204           | Rust     |
 
 ### Everybody Codes
 
