@@ -19,6 +19,7 @@ Poke me for access to the board and the group chat!
 | Rob       | https://github.com/RobM83/AdventOfCode2024   | Go       |
 | Steph     | https://github.com/CZero/Advent-of-Code-2024 | Go       |
 | Stephan   | https://code.steph.tools/steph/adventofcode  | Haskell  |
+| Yuri      | https://github.com/elyuridewit/AoC2024       | Rust     |
 
 ## 2023
 
