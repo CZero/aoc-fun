@@ -8,9 +8,10 @@ Poke me for access to the board and the group chat!
 
 ## 2025
 
-| Who   | Url                               | Language |
-|:------|:----------------------------------|:---------|
-| Steph | https://github.com/CZero/AOC-2025 | Go       |
+| Who  --- | Url                                        | Language |
+|:---------|:-------------------------------------------|:---------|
+| Fred-Jan | https://github.com/fred-jan/advent-of-code | Rust     |
+| Steph    | https://github.com/CZero/AOC-2025          | Go       |
 
 ## 2024
 
