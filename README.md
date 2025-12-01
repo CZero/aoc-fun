@@ -6,6 +6,12 @@ A repo to track repo's of friends and colleagues doing [Advent of Code](https://
 
 Poke me for access to the board and the group chat!
 
+## 2025
+
+| Who   | Url                               | Language |
+|:------|:----------------------------------|:---------|
+| Steph | https://github.com/CZero/AOC-2025 | Go       |
+
 ## 2024
 
 | Who       | Url                                          | Language |
