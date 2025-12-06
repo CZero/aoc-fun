@@ -11,6 +11,7 @@ Poke me for access to the board and the group chat!
 | Who  --- | Url                                        | Language |
 |:---------|:-------------------------------------------|:---------|
 | Fred-Jan | https://github.com/fred-jan/advent-of-code | Rust     |
+| Joost    | https://github.com/vlabakje/aoc2025        | Python   |
 | Steph    | https://github.com/CZero/AOC-2025          | Go       |
 
 ## 2024
